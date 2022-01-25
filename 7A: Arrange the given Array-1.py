@@ -1,3 +1,5 @@
+#by Lakshmana Reddy
+#follow for more :)
 n=int(input())
 
 ls=list(map(int,input().split()))
